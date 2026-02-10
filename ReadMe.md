@@ -114,7 +114,3 @@ python main.py
 | NumPy          | 1.24.3     | Açı değerinin interpolasyonu      |
 
 ---
-
-## Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır.
